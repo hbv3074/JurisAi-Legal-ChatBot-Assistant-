@@ -1,0 +1,16 @@
+streamlit==1.54.0
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.59
+langchain-text-splitters==0.3.8
+langchain-huggingface==0.1.2
+langchain-groq==0.2.4
+faiss-cpu==1.13.2
+sentence-transformers==3.0.1
+transformers==4.57.6
+torch==2.10.0
+huggingface-hub==0.36.2
+pypdf==6.7.3
+python-dotenv==1.2.1
+numpy==1.26.4
+requests==2.32.5
